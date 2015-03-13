@@ -11,7 +11,10 @@ namespace EntityTest
         static void Main(string[] args)
         {
 
-            insereAluno.insere();
+
+             ListaAluno.Listar();
+             Console.ReadKey();
+           // insereAluno.insere();
             //using (var ctx = new BancoContext())
             //{
             //    Aluno a1 = new Aluno

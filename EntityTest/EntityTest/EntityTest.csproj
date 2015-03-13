@@ -52,6 +52,7 @@
     <Compile Include="BancoContext.cs" />
     <Compile Include="Endereco.cs" />
     <Compile Include="insereAluno.cs" />
+    <Compile Include="ListaAluno.cs" />
     <Compile Include="Livro.cs" />
     <Compile Include="Migrations\201503131313128_InitialCreate.cs" />
     <Compile Include="Migrations\201503131313128_InitialCreate.Designer.cs">
