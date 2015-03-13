@@ -1,0 +1,13 @@
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\bin\Debug\EntityTest.exe.config
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\bin\Debug\EntityTest.exe
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\bin\Debug\EntityTest.pdb
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\bin\Debug\EntityFramework.dll
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\bin\Debug\EntityFramework.xml
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\obj\Debug\EntityTest.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\obj\Debug\EntityTest.exe
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\obj\Debug\EntityTest.pdb
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\obj\Debug\EntityTest.Migrations.InitialCreate.resources
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\obj\Debug\EntityTest.csproj.GenerateResource.Cache
+C:\Users\Rafael\Documents\Visual Studio 2013\Projects\K19-K31\EntityTest\EntityTest\EntityTest\obj\Debug\EntityTest.Migrations.AddIdadeToAluno.resources
